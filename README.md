@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Maya 💗</h1>
 <h3 align="center">A Computer Science student with an interest in app development 💻</h3>
 
-![](https://github.com/maya-tabbah/maya-tabbah/blob/main/giphy.gif) ![](https://github.com/maya-tabbah/maya-tabbah/blob/main/giphy.gif)
 
 - 🚧 I’m currently working on randomly generated word app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app)
 
