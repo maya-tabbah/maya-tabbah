@@ -3,6 +3,8 @@
 
 ![](https://github.com/maya-tabbah/maya-tabbah/blob/main/giphy.gif)
 
+![](https://github.com/maya-tabbah/maya-tabbah/blob/main/giphy.gif)
+
 - 🚧 I’m currently working on randomly generated word app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app)
 
 - 🌱 I’m currently learning **Flutter and Swift**
