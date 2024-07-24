@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maya 💗</h1>
-<h3 align="center"> A Computer Science Student Studying Software Engineering 💻</h3>
+<h3 align="center"> A Computer Science Student and Aspiring Software Engineering 💻</h3>
 
 
 ![](https://github.com/maya-tabbah/maya-tabbah/blob/main/uwp1085854.gif)
