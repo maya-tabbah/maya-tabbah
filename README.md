@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maya 💗</h1>
-<h3 align="center">A Computer Science student with an interest in app development 💻</h3>
+<h3 align="center">A Computer Science student studying Software Engineering  💻</h3>
 
 
 ![](https://github.com/maya-tabbah/maya-tabbah/blob/main/uwp1085854.gif)
@@ -8,7 +8,7 @@
 
 - 🚧 I’m currently working on randomly generated name app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app)
 
-- 🌱 I’m currently learning **Flutter and Swift**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mayatabbah7@gmail.com**
 
