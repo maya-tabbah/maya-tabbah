@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mayatabbah7@gmail.com**
 
-- 📄 Know about my experiences [https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV](https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV](https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV)
+- 📄 Know about my experiences [https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV]
 
 - 😸 Fun fact **I love to sew 🧵**
 
