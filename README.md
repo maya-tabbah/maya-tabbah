@@ -6,13 +6,13 @@
 
 
 
-- 🚧 I’m currently working on randomly generated name app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app)
+#- 🚧 I’m currently working on randomly generated name app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app)
 
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mayatabbah7@gmail.com**
 
-- 📄 Know about my experiences [https://notability.com/n/14pLNTBJGBL8ghFJpOpwtD](https://notability.com/n/14pLNTBJGBL8ghFJpOpwtD)
+- 📄 Know about my experiences [[[https://notability.com/n/14pLNTBJGBL8ghFJpOpwtD]([https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV](https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV))]](https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV)
 
 - 😸 Fun fact **I love to sew 🧵**
 
