@@ -6,7 +6,7 @@
 
 
 
-<(- 🚧 I’m currently working on randomly generated name app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app))>
+<! 🚧 I’m currently working on randomly generated name app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app) >
 
 - 🌱 I’m currently learning **Python**
 
