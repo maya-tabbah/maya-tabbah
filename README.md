@@ -5,9 +5,6 @@
 ![](https://github.com/maya-tabbah/maya-tabbah/blob/main/uwp1085854.gif)
 
 
-
-<! 🚧 I’m currently working on randomly generated name app using Flutter 📱 [namer_app](https://github.com/maya-tabbah/namer_app) >
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mayatabbah7@gmail.com**
