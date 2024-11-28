@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ Data Structures**
 
-- 📫 How to reach me **mayatabbah7@gmail.com**
+- 📫 How to reach me **mayatabbahinquiry@gmail.com**
 
 - 📄 Know about my experiences on my [Resume](https://notability.com/n/~nxEWPu_3NQJ8wRfLjD4Y)
 
