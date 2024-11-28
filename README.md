@@ -5,7 +5,7 @@
 ![](https://github.com/maya-tabbah/maya-tabbah/blob/main/uwp1085854.gif)
 
 
-- 🌱 I’m currently learning **Python Data Structures**
+- 🌱 I’m currently learning **C++ Data Structures**
 
 - 📫 How to reach me **mayatabbah7@gmail.com**
 
