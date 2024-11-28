@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mayatabbah7@gmail.com**
 
-- 📄 Know about my experiences on my [Resume]([https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV](https://notability.com/n/~nxEWPu_3NQJ8wRfLjD4Y))
+- 📄 Know about my experiences on my [Resume]([https://notability.com/n/0Ey3FNU8t0BtjOmAEOepAV](https://notability.com/n/~nxEWPu_3NQJ8wRfLjD4Y)])
 
 - 😸 Fun fact **I love to sew 🧵**
 
